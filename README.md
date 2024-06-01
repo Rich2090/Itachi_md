@@ -3,18 +3,18 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ITACHI_MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+BRYANT+TECH;RELEASED+22.2.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ITACHI_MD;MULTI+DEVICE+YOU'RE+CAUGHT+IN+MY+GENJUTSU;CREATED+BY+BRYANT+TECH" alt="Typing SVG" /></a>
   </p>
-    <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/3f985014b51b3cf335bfe.jpg">
+    <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/720fe22f52a2c03e2728c.jpg">
 <p align="center">
 <p align="center">
-<a href="https://github.com/Bryant2090/itachi-Md"><img title="Author" src="https://img.shields.io/badge/ITACHI_MD-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Rich2090/Itachi_md"><img title="Author" src="https://img.shields.io/badge/ITACHI_MD-black?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Bryant2090?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/BRYANT2090?label=Followers&style=social"></a>
-<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Bryant2090/Itachi-Md?&style=social"></a>
-<a href="https://github.com/Bryant2090/Itachi-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Bryant2090/Itachi-Md?style=social"></a>
-<a href="https://github.com/Bryant2090/Itachi-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+<a href="https://github.com/Bryant2090?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Rich2090?label=Followers&style=social"></a>
+<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Rich2090/Itachi_md?&style=social"></a>
+<a href="https://github.com/Rich2090/Itachi_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rich2090/Itachi_md?style=social"></a>
+<a href="https://github.com/Rich2090/Itachi_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
   
 ***
 
