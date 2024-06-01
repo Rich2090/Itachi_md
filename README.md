@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ITACHI_MD;MULTI+DEVICE+YOU'RE+CAUGHT+IN+MY+GENJUTSU;CREATED+BY+BRYANT+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +ITACHI_MD;MULTI+DEVICE;YOU'RE+CAUGHT+IN+MY+GENJUTSU;CREATED+BY+BRYANT+TECH" alt="Typing SVG" /></a>
   </p>
     <img alt="ITACHI-MD" width="700" height="300" src="https://telegra.ph/file/720fe22f52a2c03e2728c.jpg">
 <p align="center">
